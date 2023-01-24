@@ -1,6 +1,6 @@
 ﻿// Напишите программу, которая по заданному номеру четверти, показывает диапазон возможных координат точек в этой четверти (x и y).
 
-int Promt(string message) // Promt - быстро
+nt Promt(string message) // Promt - быстро
 {
     System.Console.WriteLine($"{message} > ");
     return Convert.ToInt32(Console.ReadLine());//возвращаемое значение конверт32 из консоль редлайн
