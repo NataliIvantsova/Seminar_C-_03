@@ -34,3 +34,12 @@ else
     string result = CetCoords(Chetvert);  //объявляем переменную типа строки result и присваиваем ей фукцию от певведенных данных
     System.Console.WriteLine(result);
 }
+
+
+//для FOR
+
+// for (int i=1; i <= n; i++)
+// {
+// double pow = Math.Pow(i, 2);
+// Console.WriteLine(pow);
+// }
