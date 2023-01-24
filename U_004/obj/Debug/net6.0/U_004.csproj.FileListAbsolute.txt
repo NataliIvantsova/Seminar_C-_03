@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\bin\Debug\net6.0\U_004.exe
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\bin\Debug\net6.0\U_004.deps.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\bin\Debug\net6.0\U_004.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\bin\Debug\net6.0\U_004.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\bin\Debug\net6.0\U_004.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\refint\U_004.dll
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.pdb
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\U_004.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Аналитик семинары\Seminar_03\U_004\obj\Debug\net6.0\ref\U_004.dll
