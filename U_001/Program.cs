@@ -4,10 +4,12 @@
 
 // ввод целого значения// она принимает строковый параметр мессендж/ пишем фукцию
 
+// целое знач.- имя фукции -строчное сообщение - сообщение
 int Promt(string message)
 {
-    System.Console.WriteLine($"{message} > ");
-    return Convert.ToInt32(Console.ReadLine());//возвращаемое значение конверт32 из консоль редлайн
+    System.Console.WriteLine($"{message} > ");// на консоли сообщение из строки выше
+    return Convert.ToInt32(Console.ReadLine());//возвращаемое значение конверт32 из консоль редлайн, т.е. превращаем его в числ
+    
 }
 //пишем белевскую фукцию которая проверяет не находятся ли точки Х и Y на оси координат
 bool ValidateCoords(int xCoord, int yCoord)
